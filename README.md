@@ -1,6 +1,7 @@
 # hello-world
-This is a exercise for understand GitHub
 
 The First Repository I Learn GitHub
+
+Add Comments on [readme-edits] branch
 
 Roven Wang
