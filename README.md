@@ -1,8 +1,7 @@
-# hello-world
+# 20160617 Hello-World
 
-The First Repository I Learn GitHub
+Exericse Hello-World Repository
 
-Add Comments on [readme-edits] branch 2016/06/17-001
-Add Comments on [readme-edits] branch 2016/06/17-002
+Try New Branch for Add Comments on branch [readme-edits-20160617]
 
-Roven Wang
+Roven Wang 2016/06/17
